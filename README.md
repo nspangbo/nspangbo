@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Mobile App Development
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Swift & SwiftUI
 - 📫 How to reach me: [email](nspangbo@gmail.com)
 
 <!--
